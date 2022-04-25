@@ -5,6 +5,7 @@ public class GitClassA {
 		
 		System.out.println("hello world");
 		System.out.println("write a command for increase the salery 30%");
+		System.out.println("hi pratik");
 	}
 
 }
